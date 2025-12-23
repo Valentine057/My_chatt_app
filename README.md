@@ -127,13 +127,7 @@ flutter run
 
 Create a folder named `screenshots/` in the project root and add your images:
 
-```md
-![Chats](screenshots/chats.png)
-![Camera](screenshots/camera.png)
-![Status](screenshots/status.png)
-```
-
----
+<Img src="">
 
 ## 📄 License
 
